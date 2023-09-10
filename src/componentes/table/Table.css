@@ -1,0 +1,22 @@
+table {
+  width: 100%;
+  max-width: 1500px;
+  min-width: 768px;
+  color: white;
+  background-color: #1f1f1f;
+  border-collapse: collapse;
+  position: absolute;
+  top: 150px;
+  margin: 10px 10px 10px 10px;
+}
+
+th,
+td {
+  border: 0.1px solid white;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #1f1f1f;
+}

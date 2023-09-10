@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.dropDown {
+  height: 40px;
+  width: 250px;
+  background: white;
+  position: absolute;
+  top: 100px;
+  left: 10px;
+}
+
+.dropDown2 {
+  left: 300px;
+}
+
+.dropDown3 {
+  left: 600px;
+}
